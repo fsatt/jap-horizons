@@ -129,29 +129,29 @@
           "kana": "あの  かた",
           "kanji": "あの  方",
           "romaji": "ano kata",
-          "english": "that person (polite}"
+          "english": "that person (polite)"
         },
         {
           "kana": "～さん",
           "romaji": "~san",
-          "english": "Mr., Ms. (suffix added to a name for expressing politeness}"
+          "english": "Mr., Ms. (suffix added to a name for expressing politeness)"
         },
         {
           "kana": "～ちゃん",
           "romaji": "~chan",
-          "english": "(suffix often added to a child's name instead of ～さん}"
+          "english": "(suffix often added to a child's name instead of ～さん)"
         },
         {
           "kana": "～じん",
           "kanji": "～人",
           "romaji": "~jin",
-          "english": "(suffix meaning 'a national of'; e.g. アメリカじん, an American}"
+          "english": "(suffix meaning 'a national of'; e.g. アメリカじん, an American)"
         },
         {
           "kana": "せんせい",
           "kanji": "先生",
           "romaji": "sensei",
-          "english": "teacher, instructor (not used when referring to one's own job}"
+          "english": "teacher, instructor (not used when referring to one's own job)"
         },
         {
           "kana": "きょうし",
@@ -175,7 +175,7 @@
           "kana": "しゃいん",
           "kanji": "社員",
           "romaji": "shain",
-          "english": "employee of ~ company (used with a company's name, e.g. IMC  の  しゃいん}"
+          "english": "employee of ~ company (used with a company's name, e.g. IMC  の  しゃいん)"
         },
         {
           "kana": "ぎんこういん",
@@ -215,7 +215,7 @@
         {
           "kana": "どなた",
           "romaji": "donata",
-          "english": "who (polite}"
+          "english": "who (polite)"
         },
         {
           "kana": "ーさい",
@@ -232,7 +232,7 @@
         {
           "kana": "おいくつ",
           "romaji": "oikutsu",
-          "english": "how old (polite}"
+          "english": "how old (polite)"
         },
         {
           "kana": "はい",
@@ -248,7 +248,7 @@
         {
           "kana": "｛初：はじ｝めまして。",
           "romaji": "Hajimemashite.",
-          "english": "How do you do? (lit. I am meeting you for the first time. Usually used as the first phrase when introducing oneself.}"
+          "english": "How do you do? (lit. I am meeting you for the first time. Usually used as the first phrase when introducing oneself.)"
         },
         {
           "kana": "～から  ｛来：き｝ました。",
@@ -258,12 +258,12 @@
         {
           "kana": "[どうぞ]  よろしく  [お｛願：ねが｝いします]。",
           "romaji": "[Douzo] yoroshiku [onegaishimasu].",
-          "english": "Pleased to meet you. (lit. Please be nice to me. Usually used at the end of a self-introduction.}"
+          "english": "Pleased to meet you. (lit. Please be nice to me. Usually used at the end of a self-introduction.)"
         },
         {
           "kana": "｛失：しつ｝｛礼：れい｝ですが",
           "romaji": "Shitsurei desu ga",
-          "english": "Excuse me, but (used when asking someone for personal information such as their name or address}"
+          "english": "Excuse me, but (used when asking someone for personal information such as their name or address)"
         },
         {
           "kana": "お｛名：な｝｛前：まえ｝は？",
@@ -334,32 +334,32 @@
         {
           "kana": "これ",
           "romaji": "kore",
-          "english": "this (thing here}"
+          "english": "this (thing here)"
         },
         {
           "kana": "それ",
           "romaji": "sore",
-          "english": "that (thing near listener}"
+          "english": "that (thing near listener)"
         },
         {
           "kana": "あれ",
           "romaji": "are",
-          "english": "that (thing over there}"
+          "english": "that (thing over there)"
         },
         {
           "kana": "この  ～",
           "romaji": "kono ~",
-          "english": "this ~ (here}"
+          "english": "this ~ (here)"
         },
         {
           "kana": "その  ～",
           "romaji": "sono ~",
-          "english": "that ~ (near the listener}"
+          "english": "that ~ (near the listener)"
         },
         {
           "kana": "あの  ～",
           "romaji": "ano ~",
-          "english": "that ~ (over there}"
+          "english": "that ~ (over there)"
         },
         {
           "kana": "ほん",
@@ -536,17 +536,17 @@
         {
           "kana": "あのう",
           "romaji": "anou",
-          "english": "Er... (used to show hesistation}"
+          "english": "Er... (used to show hesistation)"
         },
         {
           "kana": "えっ",
           "romaji": "e",
-          "english": "Oh? What! (used when hearing something unexpected}"
+          "english": "Oh? What! (used when hearing something unexpected)"
         },
         {
           "kana": "どうぞ。",
           "romaji": "Douzo.",
-          "english": "Here you are. (used when offering someone something}"
+          "english": "Here you are. (used when offering someone something)"
         },
         {
           "kana": "[どうも]  ありがとう  [ございます]。",
@@ -566,7 +566,7 @@
         {
           "kana": "あ",
           "romaji": "a",
-          "english": "Oh! (used when becoming aware of something}",
+          "english": "Oh! (used when becoming aware of something)",
           "endOfSection": true
         },
         {
@@ -577,7 +577,7 @@
         {
           "kana": "こちらこそ  [どうぞ]  よろしく  [お｛願：ねが｝いします]。",
           "romaji": "Kochirakoso [douzo] yoroshiku [onegaishimasu].",
-          "english": "Pleased to meet you too. (response to [どうぞ]  よろしく  [おねがいします]。}"
+          "english": "Pleased to meet you too. (response to [どうぞ]  よろしく  [おねがいします]。)"
         }
       ]
     },
